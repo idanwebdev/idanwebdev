@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @idanwebdev
-- 👀 I’m interested in intresting open-source projects
-- 🌱 I’m currently learning advanced php
+- 👀 I’m interested in fun & "good cause" open-source projects
+- 🌱 I’m familiar with javascript & php
 - 📫 How to reach me: idanatias2@gmail.com
