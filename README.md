@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @idanwebdev
-- 👀 I’m interested in fun & good cause open-source projects
-- 🌱 I’m familiar with javascript & php
-- 📫 How to reach me: idanatias2@gmail.com
+🌱 Experienced in JavaScript and frontend development
+💻 Building modern, performant web applications
+📫 Reach me at idanatias2@gmail.com
+🎸 Guitarist, avid traveler, and dog lover
